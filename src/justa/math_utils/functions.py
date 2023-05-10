@@ -1,5 +1,5 @@
-import  engine.math_utils.domains as   dom
-from    engine.math_utils.utils import *
+import  justa.math_utils.domains as   dom
+from    justa.math_utils.utils import *
 
 class Function():
     def __init__(self, f, domain = dom.Reals, name = "Function"):

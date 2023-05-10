@@ -9,7 +9,7 @@ file_name = sys.argv[1]
 with open(file_name, "r") as f:
     text = f.read()
 
-header = "from engine import *"
+header = "from justa import *"
 footer = text.split("\n")[-1]
 
 code = f"""{header}

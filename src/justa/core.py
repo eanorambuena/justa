@@ -3,7 +3,7 @@ from   math import cos, sin, acos, pi
 from   matplotlib.pyplot import imsave
 import numpy as np
 
-from   engine.colors import *
+from   justa.colors import *
 
 class Screen(Image):
 

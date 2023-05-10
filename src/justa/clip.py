@@ -1,5 +1,5 @@
 import cv2
-from engine import Screen
+from justa import Screen
 from eggdriver.resources.console import clearConsole
 import moviepy.video.io.ImageSequenceClip
 import os

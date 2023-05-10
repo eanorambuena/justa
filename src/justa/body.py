@@ -1,6 +1,6 @@
 from eggdriver import Set
 
-from engine.colors import *
+from justa.colors import *
 
 origin = [0, 0, 0]
 

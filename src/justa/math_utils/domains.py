@@ -1,6 +1,6 @@
 import types
 
-from engine.math_utils.utils import *
+from justa.math_utils.utils import *
 
 class Domain():
     def __init__(self, contain_function = is_real, name = "Domain"):
