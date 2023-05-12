@@ -1,4 +1,4 @@
-v = "0.0.1.dev1"
+v = "0.0.1.dev2"
 """A setuptools based setup module.
 See:
 https://packaging.python.org/guides/distributing-packages-using-setuptools/
@@ -125,7 +125,7 @@ setup(
 
     # When your source code is in a subdirectory under the project root, e.g.
     # `src/`, it is necessary to specify the `package_dir` argument.
-    package_dir={'src': 'justa'},  # Optional
+    #package_dir={'': 'name'},  # Optional
 
     # You can just specify package directories manually here if your project is
     # simple. Or you can use find_packages().
