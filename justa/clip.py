@@ -58,4 +58,4 @@ def render_animation(loop_function, frames_path: str, output_path: str, fps: int
     clearConsole()
     clip_images(frames_path, fps, output_path, use_moviepy=use_moviepy)
     clearConsole()
-    print(f"EanorPlot - Animation saved to {output_path}\nResolution: {width}x{height}\n")
+    print(f"Justa - Animation saved to {output_path}\nResolution: {width}x{height}\n")
